@@ -1,7 +1,8 @@
 import React from "react";
+import { Counter } from "./features/counter/Counter.jsx";
+
 import logo from "./assets/vite.svg";
 import "./App.css";
-import { Counter } from "./features/counter/Counter.jsx";
 
 function App() {
   return (
